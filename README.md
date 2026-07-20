@@ -62,6 +62,6 @@ The dashboard uncovers key behavioral patterns and performance insights such as:
 
 ---
  
-📁 **Download Report**: [Uber Report](https://github.com/ArunGuptaaa/Uber-Trip-Analysis/blob/main/Uber%20Report.pbix)
+📁 **Download Report**: [Uber Report](https://github.com/Madhusudhan-data/Uber-Trip-Analysis/blob/main/Uber%20Report.pbix)
 
 Feel free to **star ⭐ this repository** if you found it useful! 🚀
